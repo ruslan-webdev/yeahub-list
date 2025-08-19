@@ -1,0 +1,16 @@
+.container {
+  margin-bottom: 24px;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 14px;
+  color: #474747;
+  margin-bottom: 8px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}

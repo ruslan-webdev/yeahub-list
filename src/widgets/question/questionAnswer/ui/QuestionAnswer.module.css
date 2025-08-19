@@ -1,0 +1,24 @@
+.container {
+  padding: 0 112px;
+}
+
+.back {
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 24px;
+  color: #6A0BFF;
+  background: #F4F4F4;
+  cursor: pointer;
+}
+
+.block {
+  display: flex;
+  justify-content: space-between
+}
+
+.answer {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

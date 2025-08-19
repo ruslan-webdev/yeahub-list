@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 110px;
+  height: 35px;
+  border-radius: 8px;
+  padding: 6px 10px;
+  background: #F8F8F8;
+  gap: 10px;
+}
+
+.type {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 120%;
+  color: #303030;
+}
+
+.value {
+  border-radius: 4px;
+  padding: 2px 4px;
+  background: #6A0BFF;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 600;
+  color: #FFFFFF;
+}

@@ -1,0 +1,44 @@
+.container {
+  width: 400px;
+  height: 360px;
+  padding: 24px;
+  border-radius: 24px;
+  background: white;
+}
+
+.metaBlocks {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.skillsBlocks {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.titleLevel, .titleSkills, .titleKeywords {
+  font-weight: 500;
+  font-size: 16px;
+  color: #474747;
+  opacity: 66%;
+  margin-bottom: 8px;
+}
+
+.keywordsBlock {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.keyword {
+  font-weight: 400;
+  font-size: 16px;
+  color: #6A0BFF;
+}
+
+.author {
+  color: #6A0BFF;
+  font-weight: 400;
+}

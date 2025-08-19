@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+}
+
+.btnSetPage {
+  background: white;
+  cursor: pointer;
+}
+
+.bthPage {
+  padding: 2px 6px;
+  border-radius: 2px;
+  font-weight: 500;
+  font-size: 14px;
+  color: #474747;
+  background: white;
+  cursor: pointer;
+  transition: .2s ease;
+}
+
+.bthPage:hover {
+  background: #6A0BFF;
+  color: white;
+}
+
+.bthPage:disabled {
+  background: #6A0BFF;
+  color: white;
+}
