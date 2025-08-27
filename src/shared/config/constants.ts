@@ -1,0 +1,1 @@
+export const DEFAULT_BOOLEAN_VALUE = false;

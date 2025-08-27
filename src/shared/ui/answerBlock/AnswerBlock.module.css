@@ -1,0 +1,20 @@
+.container {
+  padding: 24px;
+  background: #FFFFFF;
+  border-radius: 24px;
+}
+
+.title {
+  color: #303030;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  margin-bottom: 20px;
+}
+
+.answer {
+  color: #303030;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 130%;
+}

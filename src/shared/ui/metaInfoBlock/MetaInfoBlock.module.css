@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 8px;
+  background: #F8F8F8;
+  gap: 12px;
+}
+
+.info {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 120%;
+  color: #303030;
+}
+
+.value {
+  padding: 2px 4px;
+  border-radius: 4px;
+  background: #6A0BFF;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 120%;
+  color: #FFFFFF;
+}

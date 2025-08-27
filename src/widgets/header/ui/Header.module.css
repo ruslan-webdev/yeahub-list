@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 64px;
+  background: #FFFFFF;
+  padding: 0 112px;
+  margin-bottom: 40px;
+}
+
+.buttons {
+  margin-left: auto;
+}

@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  width: 765px;
+  align-items: center;
+  gap: 8px;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  background: #5533FF;
+  border-radius: 50%;
+}
+
+.title {
+  color: #191919;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.arrow {
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.answer {
+  margin-top: 20px;
+  position: relative;
+  min-height: 200px;
+}
+
+.metaBlocks {
+  display: flex;
+  margin-bottom: 24px;
+  gap: 40px;
+}
+
+.answerText {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 130%;
+  margin-bottom: 24px;
+  color: #474747;
+}
+
+.buttonContainer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
